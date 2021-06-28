@@ -20,6 +20,6 @@ This calendar contains all the milestones for the computing subject group
 
 ### Computing Subject Group course structures
 
-This link will take you to a Trello board which contains all of our structures
+This link will take you to a Trello board which contains all of our course structures
 
-[Academic Calendar](https://trello.com/b/YItt9IH6/course-structure-2021){: .btn .btn-purple } 
+[Course Stuctures](https://trello.com/b/YItt9IH6/course-structure-2021){: .btn .btn-purple } 
