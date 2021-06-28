@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Section 2 - Child 1
+title: Section 2 - Mod
 parent: Section 2
 nav_order: 2
 ---
