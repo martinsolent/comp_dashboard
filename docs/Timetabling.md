@@ -7,6 +7,8 @@ nav_order: 3
 
 # Timetable guides and Links
 
+![cal](images/calendar-660670_1920.jpg)
+
 ## Timetable App
 
 You can access the timetable app either by using the full desktop version, or via an iCal feed, so you can download your individual timetable to the calendar on your mobile device.

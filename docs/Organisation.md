@@ -8,6 +8,8 @@ nav_order: 2
 
 # Organisation
 
+![clock](images/clock.jpg)
+
 ### Computing Team Calendar 2021-2022
 
 This calendar contains all the milestones for the computing subject group

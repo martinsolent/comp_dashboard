@@ -5,9 +5,9 @@ nav_order: 6
 ---
 {: .no_toc }
 
-# Student Experience
+# Student Experience 
 
-![Student Experience](images/hack-the-south-1.jpg)
+![Student Experience](images/EJFvcOyW4AAzsS5.jpg)
 
 [Student Experience](https://martinsolent.github.io/Student-Experience/){: .btn .btn-purple } 
 
