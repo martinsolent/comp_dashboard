@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Section 1 - Child 3
-parent: Section 1
-nav_order: 4
+parent: assessment
+nav_order: 7
 ---
 
 {: .no_toc }

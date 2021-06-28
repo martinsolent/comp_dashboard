@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Moderation
-parent: Section 1
-nav_order: 4
+parent: assessment
+nav_order: 5
 ---
 
 {: .no_toc }
