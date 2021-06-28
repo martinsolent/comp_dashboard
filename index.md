@@ -22,4 +22,5 @@ In this pages you will find information about the computing team and the activit
 
 [COMPUTING TEAM](https://learn.solent.ac.uk/course/view.php?id=22663&section=1#tabs-tree-start){: .btn .btn-purple } 
 
-https://learn.solent.ac.uk/course/view.php?id=22663&section=1#tabs-tree-start
+
+Solent University
