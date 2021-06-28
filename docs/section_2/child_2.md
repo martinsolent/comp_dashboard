@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Section 2 - Child 2
+title: Assessments - Peer Review
 parent: Assessments
 nav_order: 3
 ---
