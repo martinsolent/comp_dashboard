@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Section 2 - Child 3
-parent: Section 2
+title: Assessments - Child 3
+parent: Assessments
 nav_order: 4
 ---
 
