@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Assessment - Moderation
-parent: assessment
+parent: Assessment
 nav_order: 2
 ---
 
