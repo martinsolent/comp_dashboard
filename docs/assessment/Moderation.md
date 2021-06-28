@@ -2,7 +2,7 @@
 layout: default
 title: Moderation
 parent: assessment
-nav_order: 5
+nav_order: 2
 ---
 
 {: .no_toc }
