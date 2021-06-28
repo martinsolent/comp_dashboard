@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Section 2 - Mod
-parent: Section 2
+parent: Assessments
 nav_order: 2
 ---
 
