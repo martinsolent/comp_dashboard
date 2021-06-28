@@ -19,8 +19,7 @@ You can also book teaching/meeting rooms using the timetable app.
 
 The attendance app uses SEAts and allows academics to track student attendance on the units they teach.
 
-[Attendance App](ttps://timetable.solent.ac.uk/CMISGo/Web/Timetablehttps://solent.seats.cloud/#/){: .btn .btn-purple } 
-h
+[Attendance App](https://timetable.solent.ac.uk/CMISGo/Web/Timetablehttps://solent.seats.cloud/#/){: .btn .btn-purple } 
 
 ## Planera Walk-though
 T
