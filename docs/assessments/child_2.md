@@ -19,4 +19,3 @@ This short video guides you through completing a peer review
 
 [Download Peer Review Form](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/ET6-hNuDq5ZDrFoKmg_6ZRYBUuzwZw6Ve2MRrel6ufAUmw?e=oV2YYS){: .btn .btn-purple } 
 
-https://trello.com/b/YItt9IH6/course-structure-2021
