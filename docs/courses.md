@@ -33,7 +33,6 @@ This link will take you to a Trello board which contains all of our structures
 
 1. [BSC (HONS) COMPUTER SYSTEMS AND NETWORKS ENGINEERING (BCSNE)](https://learn.solent.ac.uk/course/view.php?id=41795)
 
-1. [BSC (HONS) SOFTWARE ENGINEERING (BSE)]
-(https://learn.solent.ac.uk/course/view.php?id=42182)
+1. [BSC (HONS) SOFTWARE ENGINEERING (BSE)](https://learn.solent.ac.uk/course/view.php?id=42182)
 
 1. [BSC (HONS) COMPUTING (BCOMPU)](https://learn.solent.ac.uk/course/view.php?id=42071&section=2#tabs-tree-start)
