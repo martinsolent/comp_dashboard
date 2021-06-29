@@ -13,10 +13,19 @@ nav_order: 4
 
 [Photo Creative Commons CC0 by Patrick Robert Doyle on Unsplash](https://unsplash.com/@teapowered?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
+This academic year 2021 to 2022 LTU have offered a based standard template for structuring your content on your module SOL Page is in line with the transformation Academy. Find below information from last year that is still relevant when structuring your learning activities this year.
+
+Remember you still need to create an overview video of your module and video guidance on your assessments.
+
 [Transformation Academy SOL](https://learn.solent.ac.uk/course/view.php?id=37138&section=0){: .btn .btn-purple } 
 
 Download the PDF guide to laying out your SOL Modules based upon the signed off pilot
+
 [Download the PDF guide](../images/TA_info_to_comp_staff_v2.pdf){: .btn .btn-purple } 
+
+SOL Example with template and new Solent 2021-22 layout
+
+[SOL Example](https://learn.solent.ac.uk/course/view.php?id=38041&section=0#tabs-tree-start)
 
 ### Overview - Semester Two - 2021
 
