@@ -9,13 +9,13 @@ permalink: /
 
 # Computing Subject Group Dashboard
 
-The Competing Dashboard contains links and guidance to the sources used by the Computing Subject Group at Solent University.
+The Computing Dashboard contains links and guidance to the resources used by the Computing Subject Group at Solent University.
 
 ![Computer](docs/images/pexels-negative-space-160107_DATS.jpg)
 
 ## COMPUTING ANNOUNCEMENTS
 
-In this pages you will find information about the computing team and the activities that we perform.  You will also find information relating to a range benefits and support we offer to support your learning and development.
+In this student focused SOL offers information about the computing team and the activities that we perform.  Students will also find information relating to a range benefits and support we offer to support your learning and development.
 
 [COMPUTING ANNOUNCEMENTS SOL](https://learn.solent.ac.uk/course/view.php?id=22663&section=0#tabs-tree-start){: .btn .btn-purple } 
 
