@@ -27,6 +27,5 @@ The attendance app uses SEAts and allows academics to track student attendance o
 This is a rough guide to updating delivery date on Planera (MDTs)
 
 [Planera Walk-though](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/EU1ly1hLivBJjl3xsXmYz1wBR6HViwE9OPq_pwnfLyqaxQ?e=KB4Jwh){: .btn .btn-purple } 
-https://timetable.solent.ac.uk/CMISGo/Web/Timetable
 
 
