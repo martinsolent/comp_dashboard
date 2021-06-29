@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Intel - ??
-parent: Assessments
+parent: Intel
 nav_order: Computing Intel
 ---
 

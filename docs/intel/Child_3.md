@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Assessments - Child 3
-parent: Assessments
+title: Intel - Child 3
+parent: Intel
 nav_order: 4
 ---
 

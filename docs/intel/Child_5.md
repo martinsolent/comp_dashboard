@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Section 2 - Child 5
-parent: Section 2
+title: Intel - Child 5
+parent: Intel
 nav_order: 6
 ---
 
