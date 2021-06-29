@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Intel - Child 3
-parent: Intel - Tableau
+title: Intel - Tableau
+parent: Intel
 nav_order: 4
 ---
 
