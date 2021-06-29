@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Assessments
+title: Intel
 nav_order: 7
 has_children: true
 ---
