@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teaching & Learning
+title: Teaching
 nav_order: 21
 has_children: true
 ---
