@@ -15,9 +15,11 @@ The Computing Dashboard contains links and guidance to the resources used by the
 
 ## COMPUTING ANNOUNCEMENTS
 
-In this student focused SOL offers information about the computing team and the activities that we perform.  Students will also find information relating to a range benefits and support we offer to support your learning and development.
+This student focused SOL offers information on the computing team, events & opportunities.  Students will also find information relating to a range benefits and support we offer to support their learning and development.
 
 [COMPUTING ANNOUNCEMENTS SOL](https://learn.solent.ac.uk/course/view.php?id=22663&section=0#tabs-tree-start){: .btn .btn-purple } 
 
+
+Computing core staff list; responsibilities and contact details.
 
 [COMPUTING TEAM](https://learn.solent.ac.uk/course/view.php?id=22663&section=1#tabs-tree-start){: .btn .btn-purple } 
