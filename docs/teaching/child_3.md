@@ -25,7 +25,7 @@ Download the PDF guide to laying out your SOL Modules based upon the signed off 
 
 SOL Example with template and new Solent 2021-22 layout
 
-[SOL Example](https://learn.solent.ac.uk/course/view.php?id=38041&section=0#tabs-tree-start)
+[SOL Example](https://learn.solent.ac.uk/course/view.php?id=38041&section=0#tabs-tree-start){: .btn .btn-purple }
 
 ### Overview - Semester Two - 2021
 
