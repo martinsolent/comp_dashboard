@@ -17,7 +17,7 @@ There are 3 main pillars of learning at Solent:
 1. Collaborative Learning 
 1. Guided Learning
 
-[Transformation Academy](https://learn.solent.ac.uk/course/view.php?id=37138#){: .btn .btn-purple } 
+[Transformation Academy SOL](https://learn.solent.ac.uk/course/view.php?id=37138#){: .btn .btn-purple } 
 
 ## Best Practice in Teaching and Learning Design
 
@@ -29,4 +29,4 @@ This course will guide you through three phases of module development:
 
 Within each phase, we will explore the best practices in developing and delivering module content, including strategies for encouraging higher-level engagement among students.  All of the strategies discussed will allow for both fully online and mixed face-to-face and online delivery.  
 
-[Transformation Academy](https://learn.solent.ac.uk/course/view.php?id=42870){: .btn .btn-purple } 
+[Best Practice SOL](https://learn.solent.ac.uk/course/view.php?id=42870){: .btn .btn-purple } 
