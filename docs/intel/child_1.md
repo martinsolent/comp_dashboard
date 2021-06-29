@@ -2,10 +2,10 @@
 layout: default
 title: Intel - ??
 parent: Intel
-nav_order: Computing Intel
+nav_order: 2
 ---
 
 {: .no_toc }
 
-# Computing Intel
+# Intel - 
 
