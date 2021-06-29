@@ -1,12 +1,16 @@
 ---
 layout: default
-title: Section - Page
-parent: section 1
+title: Course - Promotion
+parent: Courses
 nav_order: 3
 ---
 
 {: .no_toc }
 
-# Title
+# Course - Promotion
 
-[Button](){: .btn .btn-purple } 
+## BSc Digital Design & Web Development
+
+![](../images/digital-design-and-web-development.jpg)
+
+[DDWD Promo Site](https://martinsolent.github.io/ddwd/){: .btn .btn-purple } 
