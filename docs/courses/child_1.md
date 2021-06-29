@@ -1,17 +1,13 @@
 ---
 layout: default
-title: Courses
-nav_order: 5
+title: Courses - Course SOLs
+parent: Courses
+nav_order: 2
 ---
+
 {: .no_toc }
 
-# Computing Courses
-
-This link will take you to a Trello board which contains all of our structures
-
-[Course Stuctures](https://trello.com/b/YItt9IH6/course-structure-2021){: .btn .btn-purple } 
-
-## Course SOLs
+# Course SOLs
 
 1. [BSc Digital Design & Web Development (BDDWDF)](https://learn.solent.ac.uk/course/view.php?id=41794&section=0) Teams [Link]() Teams Code: **NO MS TEAM**
 
