@@ -35,5 +35,3 @@ ALL Computing Foundation pathways
 
 [Download Transfer Form](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/Eb20mTAnvP5EuFtktYRZB74BDmnp77t_77p1cjlTMu_V6A?e=stzrzs){: .btn .btn-purple }
 
-[Transfer Form](../images/internal_trans_fillable_main_2021.docx){: .btn .btn-purple }
-
