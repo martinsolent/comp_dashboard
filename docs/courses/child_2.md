@@ -13,4 +13,11 @@ nav_order: 3
 
 ![](../images/digital-design-and-web-development.jpg)
 
-[DDWD Promo Site](https://martinsolent.github.io/ddwd/){: .btn .btn-purple } 
+[DDWD Promo Site](https://martinsolent.github.io/ddwd/){: .btn .btn-purple }
+
+## Digital Technology Solutions Degree Apprentice 
+
+![DATS image](../images/cisco-labs-banner.jpg)
+
+[DATSPromo Site](https://martinsolent.github.io/bdats/){: .btn .btn-purple } 
+
