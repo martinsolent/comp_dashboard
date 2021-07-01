@@ -19,5 +19,5 @@ nav_order: 3
 
 ![DATS image](../images/cisco-labs-banner.jpg)
 
-[DATSPromo Site](https://martinsolent.github.io/bdats/){: .btn .btn-purple } 
+[DATS Promo Site](https://martinsolent.github.io/bdats/){: .btn .btn-purple } 
 
