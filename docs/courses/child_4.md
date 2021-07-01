@@ -1,14 +1,22 @@
 ---
 layout: default
-title: Courses - BIT & ITM Runout
+title: Courses - Course Documents
 parent: Courses
-nav_order: 5
+nav_order: 6
 ---
 
 {: .no_toc }
 
-# BIT & ITM Runout
+# Course and Module Documentation
 
-This sheet shows runout delivery for BIT & ITM Level 6 2021-22 Runout. 
+This SOL page contains all the programme, course specifications and module descriptors.
 
-[BIT & ITM Runout](https://ssu-my.sharepoint.com/:x:/g/personal/martin_reid_solent_ac_uk/EXvVyh1vj3lGtu9cNPIDTMUBcFhO3UcrVe4opPG6J26kAg?e=Ft3QgV){: .btn .btn-purple } 
+[Programme Specifications](https://learn.solent.ac.uk/course/view.php?id=6152&section=1#tabs-tree-start){: .btn .btn-purple } 
+
+[Module Descriptors](https://learn.solent.ac.uk/course/view.php?id=6152&section=2#tabs-tree-start){: .btn .btn-purple } 
+
+[Archive Programme Specs](https://learn.solent.ac.uk/course/view.php?id=6152&section=4#tabs-tree-start){: .btn .btn-purple } 
+
+
+
+
