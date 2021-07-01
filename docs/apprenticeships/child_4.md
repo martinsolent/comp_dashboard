@@ -9,6 +9,6 @@ nav_order: 5
 
 # Apprenticeships - DATS Pathways
 
-This sheet contains all the module delivery for all digital technology solutions pathways those for January and February starts okay Google stop
+This sheet contains module delivery for  all Digital Technology Solutions pathways for both September and January starts.
 
 [DATS Pathways](https://ssu-my.sharepoint.com/:x:/g/personal/martin_reid_solent_ac_uk/Eedlc3BnwzVDqgEjm50ngqcB_enMAwsiFWet4LEmFrgPgw?e=onJBGK){: .btn .btn-purple } 
