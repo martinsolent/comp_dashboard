@@ -28,4 +28,4 @@ This is a rough guide to updating delivery date on Planera (MDTs)
 
 [Planera Walk-though](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/EU1ly1hLivBJjl3xsXmYz1wBR6HViwE9OPq_pwnfLyqaxQ?e=KB4Jwh){: .btn .btn-purple } 
 
-
+[Planera App](https://solentplanera-ssu.msappproxy.net/Login#){: .btn .btn-purple }
