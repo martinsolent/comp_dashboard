@@ -57,11 +57,11 @@ The following [BCS videos](https://www.youtube.com/watch?v=4NP5zjatpkQ&ab_channe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4NP5zjatpkQ?start=458" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Information for Apprentice side set-up
+### Adding candidates to exam session
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4NP5zjatpkQ?start=672" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Adding candidates to exam session
+### Information for Apprentice side set-up
 
 You will have to do download software to take the test so if you are using a work computer and don't have admin rights - we recommend you use your own computer
 
