@@ -57,7 +57,40 @@ The following [BCS videos](https://www.youtube.com/watch?v=4NP5zjatpkQ&ab_channe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4NP5zjatpkQ?start=458" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Adding candidates to exam session
+### Information for Apprentice side set-up
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4NP5zjatpkQ?start=672" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Adding candidates to exam session
+
+You will have to do download software to take the test so if you are using a work computer and don't have admin rights - we recommend you use your own computer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-KV_UoS-nRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**On the day of the exam**
+
+Before joining the arranged Teams meeting you should sign into the BCS portal:
+
+From your BCS account you will then need to go to ‘upcoming exams’ and select the exam you will be taking. Follow the Questionmark instructions to initiate the exam. This will not start the exam until your invigilator has given you an access code.
+
+Ensure you do not have any other applications on your PC open as this will prevent you from running the Questionmark software. You will have to close any programs running in background mode. Questionmark will inform you of any applications that need to be closed.
+
+Please join Team meeting which has be set to start 15-20 minutes before the exam it is due to start to allow time for onboarding.
+
+**Onboarding**
+
+The invigilator will greet you and check your ID and your exam environment. You must be the only person in the room with a clear desk other than some notepaper and a pen or pencil. You may use the notepad during the exam if needed.
+
+The invigilator will provide you with an access code to start the exam.
+
+During the exam you will need to stay connected to both the Teams meeting and the exam. You will not be able to see your tutor during the exam as the Questionmark software will block this, but your tutor will still be able to see you, so that they can invigilate the exam as they would if you were in a classroom environment.  You will be expected to keep your microphone switched on during the exam. You may want to turn your own volume down so that you are not disturbed by noise from other candidates. 
+
+Navigating through the exam is relatively intuitive. Questions are answered on screen by clicking onto one of the 4 answers displayed on the screen. There should be an amount of time left displayed at the top of the screen. There is also an option to ‘flag’ a question that you want to go back to later. We recommend that you take a best guess at every question before flagging it. The Questionmark software will allow you to navigate backwards and forwards through the exam and go back to flagged questions.
+
+Ensure that you attempt every question.
+
+**At the end of the exam**
+
+You can terminate the exam before the time expires but we do not recommend this. Otherwise, the exam will finish at the end of the allocated time.
+
+Your exam result will be displayed immediately. The result will remain as pending until it has been processed by BCS which can take a day or so.
