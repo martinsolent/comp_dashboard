@@ -24,7 +24,7 @@ Below are delivery options for hybrid learning as well as pure me face-to-face t
 
 **Hybrid learning issues**
 
-One of the main issues of delivering hybrid learning is having to switch between online live and face-to-face campus delivery. Staff and students ending up with a mixture of online learning and face-to-face learning in the same day, defeats the benefits thatthe hybrid approach can offer.
+One of the main issues of delivering hybrid learning is having to switch between online live and face-to-face campus delivery. Staff and students ending up with a mixture of online learning and face-to-face learning in the same day, defeats the benefits that the hybrid approach can offer.
 
 There is a likelihood that your presentation/lecture will be timetabled after your practical sessions also it could mean that apprenticeship students have the classes disconnected so they may end up with a session being timetabled on the day they do not come to uni (see below)
 
@@ -40,6 +40,7 @@ Also for apprenticeship students they need to have all the delivered classes on 
 
 The flipped Classroom approach does mean more preparation and also careful duration of the learning journey in advance
 
+[Download Diagram](ACS_slides/comp_delivery_options_v2.png)
 
 ![](ACS_slides/comp_delivery_options_v2.png)
 
