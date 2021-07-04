@@ -12,9 +12,9 @@ nav_order: 6
 The three pillars of learning and teaching at Solent
 There are 3 main pillars of learning at Solent:
 
-Directed Learning
-Collaborative Learning 
-Guided Learning
+* Directed Learning
+* Collaborative Learning 
+* Guided Learning
 
 Directed and Collaborative Learning is what we have always known as "contact time", and is learning that is made possible through a Course Team's academic delivery of the subject area.
 
