@@ -12,13 +12,18 @@ nav_order: 7
 
 ### New Level 4 Standard
 
-Apprenticeship standards for Network Engineer and Data Analyst updated in June 2021. Mainly with the EPA of all of the knowledge modules, vendor qualifications, EPA synoptic project and the employer reference.
+Apprenticeship standards for Network Engineer and Data Analyst updated in June 2021. Mainly within the EPA for the removal the Knowledge Modules, vendor qualifications, EPA synoptic project and the employer reference. 
 
-Course specifications for these courses will need to be updated to remove any knowledge modules or vendor qualifications. The learning outcomes in the standards have also been re-configured so we will need to update refresh and that these to the module delivery.
+Course specifications for these courses will need to be updated to remove any knowledge modules or vendor qualifications. The learning outcomes in the standards also need to re-configured/refresh, module codes and delivery.
 
-Asked to do:
-
-Map COM411, COM417, COM418 COM423 to the new standard learning outcomes
+Need to Map COM411, COM417, COM418 COM423 to the new standard learning outcomes
 
 Update and refresh module descriptors for COM408 & ISM400
+
+
+[Network Mapping](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/EePWo99bHJ9Bs348kkcAMHQBE8SrWHqHSSW72Ei-gGriSA?e=vhsNlt){: .btn .btn-purple } 
+
+[Network Spec Work Doc](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/EXgwVa35ggBPgUaLx8zvn9oBq1baEPmynln-tLerwZTRtg?e=bmJHqT)
+
+[Data Spec Work Doc](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/EePWo99bHJ9Bs348kkcAMHQB598y10B-HxJYwt0uvJwTyg?e=rlzuNe){: .btn .btn-purple } 
 
