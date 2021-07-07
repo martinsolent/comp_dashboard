@@ -26,10 +26,10 @@ A 60 minute two-way discussion underpinned by the portfolio, which involves both
 
 [Good info here](https://www.accelerate-people.co.uk/data-analyst-june-2021/)
 
-[L4 DATA Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/data-analyst-v1-1){: .btn .btn-purple 
+[L4 DATA Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/data-analyst-v1-1){: .btn .btn-purple }  
 
 [End-point assessment plan for L4 Data Analyst
-apprenticeship standard] (https://www.instituteforapprenticeships.org/media/5154/st0118_data-analyst-_l4_ap-for-publication_20210602.pdf)
+apprenticeship standard](https://www.instituteforapprenticeships.org/media/5154/st0118_data-analyst-_l4_ap-for-publication_20210602.pdf)
 
 
 ### Network Engineer End-point Assessment now consists of two different methods:
