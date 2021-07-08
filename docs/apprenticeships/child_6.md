@@ -21,9 +21,10 @@ Need to Map COM411, COM417, COM418 COM423 to the new standard learning outcomes
 Update and refresh module descriptors for COM408 & ISM400
 
 
-[Network Mapping](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/EePWo99bHJ9Bs348kkcAMHQBE8SrWHqHSSW72Ei-gGriSA?e=vhsNlt){: .btn .btn-purple } 
+[Data Mapping](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/EePWo99bHJ9Bs348kkcAMHQBE8SrWHqHSSW72Ei-gGriSA?e=vhsNlt){: .btn .btn-purple } 
 
-[Network Spec Work Doc](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/EXgwVa35ggBPgUaLx8zvn9oBq1baEPmynln-tLerwZTRtg?e=bmJHqT)
 
-[Data Spec Work Doc](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/EePWo99bHJ9Bs348kkcAMHQB598y10B-HxJYwt0uvJwTyg?e=rlzuNe){: .btn .btn-purple } 
+[Data Spec Work Doc](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/EQjkfe1VIgNGpZzEF7KMNEoBV-z2crbQHCd4sJI4htArSQ?e=X8nqKX){: .btn .btn-purple } 
+
+[Network Spec Work Doc](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/EXgwVa35ggBPgUaLx8zvn9oBq1baEPmynln-tLerwZTRtg?e=bmJHqT){: .btn .btn-purple } 
 
