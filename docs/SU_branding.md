@@ -16,6 +16,7 @@ On this page you can find out how the new brand was researched and developed, ta
 
 ### Resources & Assets
 
+
 [Full brand guidelines - May 2018](https://staff.solent.ac.uk/official-documents/external-relations/brand-guidelines-solent-university.pdf)
 
 [Solent University branded PowerPoint template (widescreen) Feb 2019](https://staff.solent.ac.uk/official-documents/external-relations/solent-powerpoint-template-widescreen.pptx)
