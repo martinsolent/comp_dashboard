@@ -21,6 +21,7 @@ On this page you can find out how the new brand was researched and developed, ta
 
 [Solent University branded PowerPoint template (widescreen) Feb 2019](https://staff.solent.ac.uk/official-documents/external-relations/solent-powerpoint-template-widescreen.pptx)
 
-[Solent Logos University branded PowerPoint - Black & Red](images/SU_branding/SU_logos/SU_logos.zip)
+[Solent Logos University branded PowerPoint - Black & Red](images/SU_branding/SU_slide_templates/slide_deck_from_template_v2.pptx)
 
-[Solent Logos](images/SU_branding/SU_slide_templates/slide_deck_from_template_v2.pptx)
+[Solent Logos](images/SU_branding/SU_logos/SU_logos.zip)
+
