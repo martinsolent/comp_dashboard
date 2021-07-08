@@ -26,7 +26,7 @@ Update and refresh module descriptors for COM408 & ISM400
 
 [Data Spec Work Doc](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/EQjkfe1VIgNGpZzEF7KMNEoBV-z2crbQHCd4sJI4htArSQ?e=X8nqKX){: .btn .btn-purple } 
 
-[Data Analyst Module Descriptors](..images/data_mods.zip)
+[Data Analyst Module Descriptors](../images/data_mods.zip)
 
 [Network Spec Work Doc](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/EXgwVa35ggBPgUaLx8zvn9oBq1baEPmynln-tLerwZTRtg?e=bmJHqT){: .btn .btn-purple } 
 
