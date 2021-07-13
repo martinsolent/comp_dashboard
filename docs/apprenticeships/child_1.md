@@ -22,13 +22,13 @@ Data Analyst End-point Assessment now consists of two different methods:
 
 A 60 minute two-way discussion underpinned by the portfolio, which involves both the Independent Assessor and the Apprentice actively listening and participating in a formal conversation.
 
-[BCS Data Analyst L4  Overview]()
+[BCS Data Analyst L4  Overview](https://ssu-my.sharepoint.com/:b:/g/personal/martin_reid_solent_ac_uk/EafOCCe2Mx5PvDJJsNlHYHwBrn7KjM5u1JttaKP7gmbZlA?e=XM6A1P)
 
-[BCS Data Analyst L4 End Point Assessment Guide **NEW JUNE 2021**]()
+[BCS Data Analyst L4 End Point Assessment Guide **NEW JUNE 2021**](https://ssu-my.sharepoint.com/:b:/g/personal/martin_reid_solent_ac_uk/EUu-RhXQNB5OuVMsnu7m16gBXDrMOXNocOptRIQ7357j9Q?e=VzHluP)
 
-[New & Revised Digital Apprenticeship Standards on BCS Sharepoint]()
+[New & Revised Digital Apprenticeship Standards on BCS Sharepoint](https://bcshq.sharepoint.com/sites/Apprenticeships/Provider%20Forums%20%20Updates/Forms/AllItems.aspx?id=%2Fsites%2FApprenticeships%2FProvider%20Forums%20%20Updates%2FApproved%20Training%20Provider%20Updates%2F2021%2FNew%20and%20Revised%20Apprenticeship%20Standards%2021%20June%202021%2Ehtml&parent=%2Fsites%2FApprenticeships%2FProvider%20Forums%20%20Updates%2FApproved%20Training%20Provider%20Updates%2F2021)
 
-[NEW 2021 EPA Guide (Excel Sheet)]()
+[NEW 2021 EPA Guide (Excel Sheet)](https://ssu-my.sharepoint.com/:x:/g/personal/martin_reid_solent_ac_uk/EQuLjq2m3ytGqT9BhClLvjkBn6nQu-HeDXlNvpcHF2BBZg?e=8qYA7N)
 
 [All Data Analyst L4 EPA Docs on BCS Sharepoint](https://bcshq.sharepoint.com/sites/Apprenticeships/EPA/Forms/AllItems.aspx?csf=1&web=1&e=9fCbdG&cid=fcae9180%2D70d8%2D4dc8%2Db898%2Db83df4d1a277&RootFolder=%2Fsites%2FApprenticeships%2FEPA%2FStandards%20Documentation%20%28TP%29%2FData%20Analyst%20%28New%20Version%29&FolderCTID=0x012000E07CD16CE5F90942A26591C88E2E8FF6)  
 
