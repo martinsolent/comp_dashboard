@@ -16,6 +16,4 @@ Apprenticeship appraisals with apprentice and their manager. These should ideall
 [Down review from](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/ETKKHmQtJv9KqkEedVj8eDQBD7VkdlG5nWKRL0NL6l68qw?e=ICr0fR){: .btn .btn-purple } 
 
 
-Review strategy (work in progress)
-
-[Review strategy (work in progress)](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/EV637lpel7hNl5scbSJqFVMBRYKomYha-uR2ELdwmvL3RA?e=9ONMTC)
+[Review strategy (work in progress)](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/EV637lpel7hNl5scbSJqFVMBtecFyrbgStiQcqTlX7vBXw?e=A4jKDA)
