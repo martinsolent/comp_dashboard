@@ -22,6 +22,16 @@ Data Analyst End-point Assessment now consists of two different methods:
 
 A 60 minute two-way discussion underpinned by the portfolio, which involves both the Independent Assessor and the Apprentice actively listening and participating in a formal conversation.
 
+[BCS Data Analyst L4  Overview]()
+
+[BCS Data Analyst L4 End Point Assessment Guide **NEW JUNE 2021**]()
+
+[New & Revised Digital Apprenticeship Standards on BCS Sharepoint](https://bcshq.sharepoint.com/sites/Apprenticeships/Provider%20Forums%20%20Updates/Forms/AllItems.aspx?id=%2Fsites%2FApprenticeships%2FProvider%20Forums%20%20Updates%2FApproved%20Training%20Provider%20Updates%2F2021%2FNew%20and%20Revised%20Apprenticeship%20Standards%2021%20June%202021%2Ehtml&parent=%2Fsites%2FApprenticeships%2FProvider%20Forums%20%20Updates%2FApproved%20Training%20Provider%20Updates%2F2021)
+
+[All Data Analyst L4 EPA Docs on BCS Sharepoint](https://bcshq.sharepoint.com/sites/Apprenticeships/EPA/Forms/AllItems.aspx?csf=1&web=1&e=9fCbdG&cid=fcae9180%2D70d8%2D4dc8%2Db898%2Db83df4d1a277&RootFolder=%2Fsites%2FApprenticeships%2FEPA%2FStandards%20Documentation%20%28TP%29%2FData%20Analyst%20%28New%20Version%29&FolderCTID=0x012000E07CD16CE5F90942A26591C88E2E8FF6)  
+
+[NEW 2021 EPA Guide (Excel Sheet] (https://bcshq.sharepoint.com/:x:/r/sites/Apprenticeships/EPA/Standards%20Documentation%20(TP)/Data%20Analyst%20(New%20Version)/Data%20Analyst%20End-to-end%20guide%20.xlsx?d=wf3e66f1190b842fdb5713dc2904fac66&csf=1&web=1&e=3NZliM)
+
 **New Standard updated 1/06/2021**
 
 [Good info here](https://www.accelerate-people.co.uk/data-analyst-june-2021/)
