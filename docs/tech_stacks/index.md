@@ -8,3 +8,5 @@ has_children: true
 {: .no_toc }
 
 # Computing Tech Stacks
+
+This section contains all the tech stacks and processes currently used on the Computing Subject Groups Modules
