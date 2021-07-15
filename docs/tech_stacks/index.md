@@ -8,5 +8,3 @@ has_children: true
 {: .no_toc }
 
 # Computing Tech Stacks
-
-
