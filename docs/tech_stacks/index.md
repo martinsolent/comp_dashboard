@@ -9,4 +9,4 @@ has_children: true
 
 # Computing Tech Stacks
 
-This section contains all the tech stacks and processes currently used on the Computing Subject Groups Modules
+This section contains all the tech stacks and processes currently used on the Computing Subject Group's Modules
