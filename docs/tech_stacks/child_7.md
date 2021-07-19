@@ -7,7 +7,7 @@ nav_order: 8
 
 {: .no_toc }
 
-# 
+# Tech Stacks - Web Application Development COM518
 
 ### Topics 1 & 2 
 
