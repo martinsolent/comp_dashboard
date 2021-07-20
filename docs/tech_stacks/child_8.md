@@ -33,16 +33,12 @@ nav_order: 9
  
 1. Styling Components and Further React Basics
 
-1. Styling Components and Further React Basics
-
 1. Routing and State Management
-
-1. Assessment 1 Support and Catch Up
 
 1. Forms and Validation
 
 1. Firebase Validation and Authenticated Routes
 
-1. Managing Data In Firebase
+1. Managing Data in Firebase
 
 1. Deployment and Security Rules
