@@ -17,7 +17,7 @@ Reviewer should highlight:
 
 * Keeping up-to-date with the 20%-off-the-job tracker on SOL
 * Keeping up-to-date with portfolio
-* or 2nd years thinking about a Synoptic Project topic which undertaken in 3rd year.
+* 2nd years should start thinking about a Synoptic Project topic which undertaken in 3rd year.
 
 
 ![](../images/review_workflow-100_v2.png)
