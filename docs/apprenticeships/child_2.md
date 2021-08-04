@@ -24,4 +24,5 @@ This page offers training for independent EPA assessors for BSc Digital and Tech
 [Download BDATS EPA Assessment Template](docs/TemplateEndPointAssessment_v-3-8-2021.docx){: .btn .btn-purple }
 
 ### EPA Example
-<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=5c4d6a01-513e-4213-abff-ad7901673961&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+[Real Example of EPA Presentation & Interview (video)](https://ssu-my.sharepoint.com/:v:/g/personal/martin_reid_solent_ac_uk/EevrvejgeYZMnndmzYqi5UIBmxjpPl5WYUq83Rqahlm4yQ?email=neil.sweeney%40gmail.com&e=Cw9m5n)
