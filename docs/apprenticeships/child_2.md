@@ -9,7 +9,36 @@ nav_order: 3
 
 # Apprenticeships - L6 EPA
 
-This page offers training for independent EPA assessors for BSc Digital and Technology Solutions Apprenticeship integrated degree.
+### Solent University, East Park Terrace, Southampton, SO14 0YN 
+
+**End Point assessor ID: EPA0325**
+
+
+The Computing Subject Group need digital specialists with hands-on experience in the following areas to undertake End Point Assessment of their Digital and Technology Solutions Professional Apprenticeships for the following pathways:
+
+* Software Engineer
+* Network Engineer
+* Data Analyst
+* Cybersecurity Specialist
+* IT Consultant
+* Business Analyst
+
+Assessors will have at least 5 years experience and must be able to demonstrate relevant occupational competence for this area of specialism and understand the scope of the apprenticeship standard. We will provide full training on the assessment process and comprehensive support throughout.
+
+
+### Assessor Recruitment Requirements 
+
+| **Knowledge**                                                | **Skills**                                                   | **Behaviours**                                               |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| An excellent knowledge and  understanding of the apprenticeship standard, assessment plan, and grading  criteria published by the Institute for Apprenticeships and Technical  Education. | Strong communication and interpersonal  skills to develop rapid rapport with apprentices across organisational levels  and backgrounds; using clear and engaging communication styles during  discussions to determine the apprentices’ level of competence and  understanding while maintaining the independence of the assessment process. | Provide a high quality of service to  both internal and external stakeholders to include allocation of time for  preparation and grading, provision of ongoing availability and adoption and  adherence to BCS policies and processes. |
+| Maintain and update  own knowledge, skills and understanding of occupational area in relation to  the apprenticeship standard(s) being end-point assessed including awareness  of new technologies within the IT and digital industry. | Carry out end-point assessments  professionally with integrity, impartiality and without prejudice to be fair,  reliable, and consistent in all decisions, applying identified reasonable  adjustments as required. | Report and seek advice on any  technical problems or administration problems to Solent University Computing team. |
+| To prepare for, conduct EPA interviews  within agreed timescales and in accordance with the apprenticeship standards,  and criteria. | Apply a methodical, appropriate, and  logical approach when interviewing to identify a fair outcome, ensuring  evidence is valid and reliable and demonstrates the apprentice’s competence  against the apprenticeship standard criteria. |                                                              |
+| Understand the importance of producing  detailed and objective feedback reports. | Record assessment decisions and  complete Solent University Computing team paperwork/reports using the  appropriate Systems to maintain integrity and accuracy of assessments. |                                                              |
+
+
+
+## EPA Assessor Training
+This Section offers training for independent EPA assessors for BSc Digital and Technology Solutions Apprenticeship integrated degree.
 
 [DATS Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-integrated-degree/){: .btn .btn-purple }
 
