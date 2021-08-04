@@ -23,10 +23,11 @@ The Computing Subject Group need digital specialists with hands-on experience in
 * IT Consultant
 * Business Analyst
 
-Assessors will have at least 5 years experience and must be able to demonstrate relevant occupational competence for this area of specialism and understand the scope of the apprenticeship standard. We will provide full training on the assessment process and comprehensive support throughout.
-
 
 ### Assessor Recruitment Requirements 
+
+Assessors will have at least 5 years experience and must be able to demonstrate relevant occupational competence for this area of specialism and understand the scope of the apprenticeship standard. We will provide full training on the assessment process and comprehensive support throughout.
+
 
 | **Knowledge**                                                | **Skills**                                                   | **Behaviours**                                               |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
