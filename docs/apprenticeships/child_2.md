@@ -11,7 +11,9 @@ nav_order: 3
 
 ### Solent University, East Park Terrace, Southampton, SO14 0YN 
 
-**End Point assessor ID: EPA0325**
+
+
+[**End Point assessor ID: EPA0325**](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1023443/Register_List_Of_Organisations_Oct_2021.xlsx)
 
 
 The Computing Subject Group need digital specialists with hands-on experience in the following areas to undertake End Point Assessment of their Digital and Technology Solutions Professional Apprenticeships for the following pathways:
@@ -56,3 +58,16 @@ This Section offers training for independent EPA assessors for BSc Digital and T
 ### EPA Example
 
 [Real Example of EPA Presentation & Interview (video)](https://ssu-my.sharepoint.com/:v:/g/personal/martin_reid_solent_ac_uk/EevrvejgeYZMnndmzYqi5UIBmxjpPl5WYUq83Rqahlm4yQ?email=neil.sweeney%40gmail.com&e=Cw9m5n)
+
+### EPA Documents
+
+The following documents need to be downloaded and signed off before the EP assessment. 
+
+The **EPA Ready form** needs to signed by Solent University as the training provider and confirm that all the requirements for Gateway EPA have been met. This will also need to be signed off by the employer and the apprentice.
+
+[Download EPA Ready Form](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/Eb_qL2LmPrtMjmC-U2kXSXcBi1WTGosTMuGkFm4vqEM0GA?e=Z6bKBa)
+
+
+The **conflict of interest form** will need to be signed by the apprenticed, employer and the independent assessor to confirm that they do not know each other.
+
+[Download Conflict of Interest Form](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/Ecti-aZM2SlIpgwY8O-TmaMBtlftX9sEiP_THo9TbqzYeA?e=H6H6qf)
