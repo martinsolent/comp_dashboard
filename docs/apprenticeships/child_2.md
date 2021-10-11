@@ -61,13 +61,13 @@ This Section offers training for independent EPA assessors for BSc Digital and T
 
 ### EPA Documents
 
-The following documents need to be downloaded and signed off before the EP assessment. 
+The following documents need to be downloaded and signed off before the EPA assessment. 
 
-The **EPA Ready form** needs to signed by Solent University as the training provider and confirm that all the requirements for Gateway EPA have been met. This will also need to be signed off by the employer and the apprentice.
+The **EPA Ready form** needs to signed by Solent University as the training provider to confirm that all the requirements for Gateway EPA have been met. This will also need to be signed off by the employer and the apprentice.
 
 [Download EPA Ready Form](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/Eb_qL2LmPrtMjmC-U2kXSXcBi1WTGosTMuGkFm4vqEM0GA?e=Z6bKBa)
 
 
-The **conflict of interest form** will need to be signed by the apprenticed, employer and the independent assessor to confirm that they do not know each other.
+The **conflict of interest form** will need to be signed by the apprentice, employer and the independent assessor to confirm that they do not know each other.
 
 [Download Conflict of Interest Form](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/Ecti-aZM2SlIpgwY8O-TmaMBtlftX9sEiP_THo9TbqzYeA?e=H6H6qf)
