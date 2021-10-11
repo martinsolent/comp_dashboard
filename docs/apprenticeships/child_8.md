@@ -17,7 +17,6 @@ You have already been assessed on all the work you submitted on the course, but 
 
 You will be offered support and guidance in the final Synoptic Project Module COM625 and in following the Gateway EPA period, but to support the mapping process learning outcomes for both the core and specialism skills for each of the pathways are below:
 
-Business Analyst
 
 [Business Analyst](docs/portfolio_LO/Business analyst_LO.docx){: .btn .btn-purple } 
 
