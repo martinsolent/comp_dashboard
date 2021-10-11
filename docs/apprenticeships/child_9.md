@@ -154,7 +154,7 @@ Knows and understands:
 - The di erent approaches to     risk treatment and management in practice.
 - What the ‘cyber security     culture’ in an organisation is, and how it may contribute to security     risk.
 
-Data analyst
+### Data analyst
 
 The primary role of a data analyst is to collect, organise and study data to provide new business insight. They are responsible for providing up-to-date, accurate and relevant data analysis for the organisation. They are typically involved with managing, cleansing, abstracting and aggregating data across the network infrastructure. They have a good understanding of data structures, software development procedures and the range of analytical tools used to undertake a wide range of standard and custom analytical studies, providing data solutions to a range of business issues. They document and report the results of data analysis activities making recommendations to improve business performance. They need a broad grounding in technology solutions to be effective in their role.
 
