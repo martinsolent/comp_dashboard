@@ -21,13 +21,13 @@ Business Analyst
 
 [Business Analyst](docs/portfolio_LO/Business analyst_LO.docx){: .btn .btn-purple } 
 
-[Cyber Security Specialist](){: .btn .btn-purple } 
+[Cyber Security Specialist](docs/portfolio_LO/Cyber Security Specialist_LO.docx){: .btn .btn-purple } 
 
-[Data analyst](){: .btn .btn-purple } 
+[Data analyst](docs/portfolio_LO/Data analyst_LO.docx){: .btn .btn-purple } 
 
-[Network Engineer](){: .btn .btn-purple } 
+[Network Engineer](docs/portfolio_LO/Network Engineer_LO.docx){: .btn .btn-purple } 
 
-[Software Engineer](){: .btn .btn-purple } 
+[Software Engineer](docs/portfolio_LO/Software Engineer_LO.docx){: .btn .btn-purple } 
 
 
 
