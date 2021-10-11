@@ -28,5 +28,5 @@ You will be offered support and guidance in the final Synoptic Project Module CO
 
 [Software Engineer](docs/portfolio_LO/Software Engineer_LO.docx){: .btn .btn-purple } 
 
-
-
+**You will upload your completed portfolio together with a learning outcome mapping grid in the Gateway EPA period. 
+**
