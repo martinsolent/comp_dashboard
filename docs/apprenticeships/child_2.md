@@ -13,7 +13,7 @@ nav_order: 3
 
 
 
-[**End Point assessor ID: EPA0325**](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1023443/Register_List_Of_Organisations_Oct_2021.xlsx)
+[**End Point Assessor Organisation (EPAO) ID: EPA0325**](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1023443/Register_List_Of_Organisations_Oct_2021.xlsx)
 
 
 The Computing Subject Group need digital specialists with hands-on experience in the following areas to undertake End Point Assessment of their Digital and Technology Solutions Professional Apprenticeships for the following pathways:
