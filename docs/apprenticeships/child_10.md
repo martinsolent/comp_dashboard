@@ -21,11 +21,8 @@ nav_order: 10
 * You are advised to review the ESFA rules before completing this form.
 * Please note that you are responsible for amending the DAS to show this withdrawal.
 
-<<<<<<< HEAD
+
 For more details contact the apprentice office: apprenticeships@solent.ac.uk
-=======
-For more details contact the appentice office: apprenticeships@solent.ac.uk
->>>>>>> 72389684411528f88fedbecb64e9ecd05e23375d
 
 Please use the appropriate form below, the apprentice and their employer needs to fill in the appropriate fields and send on to the Course Leader martin.reid@solent.ac.uk to sign off and process.
 
