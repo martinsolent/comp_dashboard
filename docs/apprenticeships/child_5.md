@@ -9,7 +9,7 @@ nav_order: 6
 
 # Apprenticeships - Reviews
 
-Tripartite review meetings take place regularly throughout the apprenticeship and are usually held every semester. 
+Tripartite review meetings take place regularly throughout the apprenticeship and are usually every 12 weeks (approx.
 
 At tripartite review meetings the apprentice, their employer, and an academic formally meet to assess progress and ensure that the apprentice is on track both in terms of their academic programme and their work-based learning. 
 
@@ -25,6 +25,8 @@ Review meetings are undertaken by Kenton Wheeler and Martin Reid
 Apprenticeship reviews with the apprentice and their manager take place every semester, they will take place online lasting between 20 and 30 minutes there is a form to be filled with contributions from the apprentice, the manager, and the university reviewer. Following the meeting, if there are any issues they will need to be resolved.
 
 Initially, the Solent Reviewer to get the apprentice to arrange a convenient time for them and their manager to undertake the review. This will avoid any issues if the manager has changed and the reviewer is unaware of this. For future meetings, the next date will be agreed at the end of each review
+
+[Review Progress List](https://ssu.sharepoint.com/:x:/r/sites/DigitalApprenticeships/Shared%20Documents/General/Student%20lists/overdue_reviews.xlsx?d=w5dfc1b1c9f164f52a50d5bd77151a36f&csf=1&web=1&e=hs4HeF)
 
 The reviewer should highlight:
 
