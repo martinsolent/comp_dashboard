@@ -9,7 +9,7 @@ nav_order: 6
 
 # Apprenticeships - Reviews
 
-Tripartite review meetings take place regularly throughout the apprenticeship and are usually every 12 weeks (approx.
+Tripartite review meetings take place regularly throughout the apprenticeship and usually take place every 12 weeks (approx.)
 
 At tripartite review meetings the apprentice, their employer, and an academic formally meet to assess progress and ensure that the apprentice is on track both in terms of their academic programme and their work-based learning. 
 
@@ -38,7 +38,7 @@ The reviewer should highlight:
 ![](../images/review_workflow-100_v3.png)
 
 
-[Down review from](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/ETKKHmQtJv9KqkEedVj8eDQBD7VkdlG5nWKRL0NL6l68qw?e=ICr0fR){: .btn .btn-purple } 
+[Download review from](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/ETKKHmQtJv9KqkEedVj8eDQBD7VkdlG5nWKRL0NL6l68qw?e=qJ8xMU){: .btn .btn-purple } 
 
 
 [Review strategy (work in progress)](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/EV637lpel7hNl5scbSJqFVMBtecFyrbgStiQcqTlX7vBXw?e=A4jKDA)
