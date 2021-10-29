@@ -53,7 +53,7 @@ This Section offers training for independent EPA assessors for BSc Digital and T
 
 [EPA Overview Slide Deck](docs/BDATS_EPA_assessor_OVERVIEW.pptx)
 
-[Download BDATS EPA Assessment Template](docs/TemplateEndPointAssessment_v-3-8-2021.docx){: .btn .btn-purple }
+[Download BDATS EPA Assessment Template](https://teams.microsoft.com/l/file/73763CDF-B14A-4613-8D77-4ADCEB5EDEDC?tenantId=d684e4cd-491a-4577-bf33-546478d72e3c&fileType=docx&objectUrl=https%3A%2F%2Fssu.sharepoint.com%2Fsites%2FDigitalApprenticeships%2FShared%20Documents%2FGeneral%2FBDATS_L6_EPA%2FTemplateEndPointAssessment_v-29-10-2021.docx&baseUrl=https%3A%2F%2Fssu.sharepoint.com%2Fsites%2FDigitalApprenticeships&serviceName=teams&threadId=19:a1831ee2be54438c813d1d87a9194b26@thread.tacv2&groupId=64170254-4f1d-48f5-bb72-c9b64f9566e3){: .btn .btn-purple }
 
 ### EPA Example
 
@@ -65,9 +65,9 @@ The following documents need to be downloaded and signed off before the EPA asse
 
 The **EPA Ready form** needs to be signed by Solent University as the training provider to confirm that all the requirements for Gateway EPA have been met. This will also need to be signed off by the employer and the apprentice.
 
-[Download EPA Ready Form](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/Eb_qL2LmPrtMjmC-U2kXSXcBi1WTGosTMuGkFm4vqEM0GA?e=Z6bKBa)
+[Download EPA Ready Form](https://ssu.sharepoint.com/:w:/s/DigitalApprenticeships/ESMIka2wef5HrS9k5lnXAiIBTAYTCg1KFNEnJz79PdWfww?e=oM22vJ)
 
 
 The **conflict of interest form** will need to be signed by the apprentice, employer and the independent assessor to confirm that they do not know each other.
 
-[Download Conflict of Interest Form](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/Ecti-aZM2SlIpgwY8O-TmaMBtlftX9sEiP_THo9TbqzYeA?e=H6H6qf)
+[Download Conflict of Interest Form](https://ssu.sharepoint.com/:w:/s/DigitalApprenticeships/EXGBB7ccz69NuDw-5oaBsb8Bjoc802-JkOVXls1pdqWjZg?e=tAVegU)
