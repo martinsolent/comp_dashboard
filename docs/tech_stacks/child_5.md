@@ -24,7 +24,7 @@ nav_order: 6
 * **Block 3:** Visualisation - visualising data using popular visualisation libraries.
 * **Block 4:** OOP - learn key object-oriented programming concepts and applying this to program construction.
 
-### Technologies used: 
+### Tech Stack & Tools: 
 
 * Python (+ a range of python modules)
 * Matplotlib
