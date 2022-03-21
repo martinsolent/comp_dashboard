@@ -32,7 +32,7 @@ BSc (Hons) Digital Design and Web Development
 
 ALL Computing Foundation pathways
 
-[Download Guidance Sheet](internal_transfer_info/New_2021/internal_trans_comp_course_info_2021.docx){: .btn .btn-purple }
+[Download Guidance Sheet](https://github.com/martinsolent/solent_store/tree/main/internal_transfer_info/New_2021/internal_trans_comp_course_info_2021.docx){: .btn .btn-purple }
 
-[Download Transfer Form](internal_transfer_info/New_2021/internal_trans_fillable_2021.docx){: .btn .btn-purple }
+[Download Transfer Form](https://github.com/martinsolent/solent_store/tree/main/internal_transfer_info/New_2021/internal_trans_fillable_2021.docx){: .btn .btn-purple }
 
