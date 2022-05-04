@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Tech Stacks
+title: Tech Stacks & Content Delivery
 nav_order: 11
 has_children: true
 ---
 
 {: .no_toc }
 
-# Computing Tech Stacks
+# Computing Tech Stacks & Content Delivery
 
 ![Lego Wall](../images/omar-flores-lQT_bOWtysE-unsplash.jpg)
 
