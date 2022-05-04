@@ -20,7 +20,6 @@ Directed and Collaborative Learning is what we have always known as "contact tim
 
 [Transformation Academy](https://learn.solent.ac.uk/course/view.php?id=37138#)
 
-[What would a blended Online-OnDemand (pre-watch lecture/guild learning activities & a face-to-face practical session look like on the timetable?](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/EdFHIpEtIS5Eq3D2YLfu8N8BxF6rDc-ZeSpeEsx3P66BoA?e=NZNrTU)
 
 Below are delivery options for hybrid learning as well as pure me face-to-face teaching. in line with the guidance offered on the Transformation Academy SOL.
 
