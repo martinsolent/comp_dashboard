@@ -20,13 +20,18 @@ Review meetings are undertaken by Kenton Wheeler and Martin Reid
 ![](../images/kenton_martin.png)
 
 
+Please can the Apprentice & their Manager have the Review Template completed beforehand, we will then go through it in the meeting and take it off you at the end of the review (you do not need to send it back in advance)
+
+Review Form Template 
+
+
 ## Review meeting workflow
 
 Apprenticeship reviews with the apprentice and their manager take place every semester, they will take place online lasting between 20 and 30 minutes there is a form to be filled with contributions from the apprentice, the manager, and the university reviewer. Following the meeting, if there are any issues they will need to be resolved.
 
 Initially, the Solent Reviewer to get the apprentice to arrange a convenient time for them and their manager to undertake the review. This will avoid any issues if the manager has changed and the reviewer is unaware of this. For future meetings, the next date will be agreed at the end of each review
 
-[Review Progress List](https://ssu.sharepoint.com/:x:/r/sites/DigitalApprenticeships/Shared%20Documents/General/Student%20lists/overdue_reviews.xlsx?d=w5dfc1b1c9f164f52a50d5bd77151a36f&csf=1&web=1&e=hs4HeF)
+[Review Progress List](https://ssu.sharepoint.com/:x:/r/sites/DigitalApprenticeships/Shared%20Documents/General/Student%20lists/overdue_reviews.xlsx?d=w5dfc1b1c9f164f52a50d5bd77151a36f&csf=1&web=1&e=hs4HeF) This link Internal access only
 
 The reviewer should highlight:
 
@@ -35,7 +40,7 @@ The reviewer should highlight:
 * 2nd-year apprentices should start thinking about a Synoptic Project topic that is undertaken in the 3rd year.
 
 
-![](../images/review_workflow-100_v3.png)
+![review_workflow](images/review_workflow-100_v4.png)
 
 
 [Download review from](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/ETKKHmQtJv9KqkEedVj8eDQBD7VkdlG5nWKRL0NL6l68qw?e=qJ8xMU){: .btn .btn-purple } 
