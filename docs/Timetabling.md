@@ -26,6 +26,6 @@ The attendance app uses SEAts and allows academics to track student attendance o
 ## Planera Walk-though
 This is a rough guide to updating delivery on Planera (MDTs) which is used to create timetables by TAR.
 
-[Planera Walk-though](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/EU1ly1hLivBJjl3xsXmYz1wBR6HViwE9OPq_pwnfLyqaxQ?e=KB4Jwh){: .btn .btn-purple } 
+[Planera Walk-though](https://github.com/martinsolent/solent_store/raw/main/workflows/Workflow_MDT_Planera.docx){: .btn .btn-purple } 
 
 [Planera App](https://solentplanera-ssu.msappproxy.net/Login#){: .btn .btn-purple }
