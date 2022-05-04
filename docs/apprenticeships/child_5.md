@@ -20,7 +20,7 @@ Review meetings are undertaken by Kenton Wheeler and Martin Reid
 ![](../images/kenton_martin.png)
 
 
-Apprentice & their Manager need to complete the Review Template & apprentice to upload it to BDATS SOL beforehand and we will then go through it in the meeting.
+Apprentices & their Managers need to complete the Review Template & apprentice should upload it to BDATS SOL beforehand and we will then go through it in the meeting.
 
 ## Review meeting workflow
 
@@ -40,6 +40,6 @@ The reviewer should highlight:
 ![review_workflow](https://github.com/martinsolent/solent_store/raw/main/images/review_workflow-100_v4.png)
 
 
-[Download review from](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/ETKKHmQtJv9KqkEedVj8eDQBD7VkdlG5nWKRL0NL6l68qw?e=qJ8xMU){: .btn .btn-purple } 
+[Download review from](https://github.com/martinsolent/solent_store/raw/main/docs/APPRENTICESHIP%20REVIEW%20FORM.docx){: .btn .btn-purple } 
 
 
