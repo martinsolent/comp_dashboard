@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Apprenticeships - Learning Breaks & Withdrawal
+title: Apprenticeships - British Values, Prevent & Safeguarding
 parent: Apprenticeships
 nav_order: 11
 ---
