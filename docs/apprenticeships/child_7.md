@@ -10,5 +10,5 @@ nav_order: 7
 # Apprenticeships - Interviews
 
 
-[Interview Form](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/EeNZyM3ZiLRLpyIsPCSv3RUBmEKTbSwgELgoL79RA7v_cA?e=t1FRLL){: .btn .btn-purple } 
+[Interview Form](https://github.com/martinsolent/solent_store/raw/main/docs/APPRENTICESHIP%20-%20Interview%20Form%202021.docx){: .btn .btn-purple } 
 
