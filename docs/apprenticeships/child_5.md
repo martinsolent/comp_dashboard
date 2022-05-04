@@ -20,10 +20,7 @@ Review meetings are undertaken by Kenton Wheeler and Martin Reid
 ![](../images/kenton_martin.png)
 
 
-Please can the Apprentice & their Manager have the Review Template completed beforehand, we will then go through it in the meeting and take it off you at the end of the review (you do not need to send it back in advance)
-
-Review Form Template 
-
+Apprentice & their Manager need to complete the Review Template & apprentice to upload it to BDATS SOL beforehand and we will then go through it in the meeting.
 
 ## Review meeting workflow
 
@@ -40,10 +37,9 @@ The reviewer should highlight:
 * 2nd-year apprentices should start thinking about a Synoptic Project topic that is undertaken in the 3rd year.
 
 
-![review_workflow](images/review_workflow-100_v4.png)
+![review_workflow](https://github.com/martinsolent/solent_store/raw/main/images/review_workflow-100_v4.png)
 
 
 [Download review from](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/ETKKHmQtJv9KqkEedVj8eDQBD7VkdlG5nWKRL0NL6l68qw?e=qJ8xMU){: .btn .btn-purple } 
 
 
-[Review strategy (work in progress)](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/EV637lpel7hNl5scbSJqFVMBtecFyrbgStiQcqTlX7vBXw?e=A4jKDA)
