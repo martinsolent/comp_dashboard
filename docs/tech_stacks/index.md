@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tech Stacks & Content Delivery
+title: Tech Stacks
 nav_order: 11
 has_children: true
 ---
