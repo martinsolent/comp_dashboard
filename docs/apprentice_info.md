@@ -8,7 +8,15 @@ nav_order: 38
 
 # Apprentice Info
 
-We run the following Computing apprenticeship
+We run the following Computing apprenticeships:
+
+[BSc (HONS) DIGITAL AND TECHNOLOGY SOLUTIONS
+](https://martinsolent.github.io/bdats/)  3 year integrated degree with pathways in:
+
+* Data Analyst
+* Software Engineering
+* Cyber Security Specialist
+* Network Engineer
 
 
-[Link button](https://martinsolent.github.io/bdats/){: .btn .btn-purple }
+[HNC Data Analyst]() 2 year Level 4 apprenticeship.
