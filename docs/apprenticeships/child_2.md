@@ -63,6 +63,8 @@ Restricted access
 
 [Real Example of EPA Presentation & Interview 2 (video)](https://ssu-my.sharepoint.com/:v:/g/personal/martin_reid_solent_ac_uk/ETbRf97qLVdCiT_AtppkTxwBBCpHEFcNeD2_ehcrGxfQ_Q)
 
+[Casual Worker Claim Form](https://github.com/martinsolent/solent_store/raw/main/docs/casual-worker-claim-form.pdf){: .btn .btn-purple }
+
 ### EPA Documents 
 
 The **conflict of interest form** will need to be signed by the apprentice, employer and the independent assessor to confirm that they do not know each other.
