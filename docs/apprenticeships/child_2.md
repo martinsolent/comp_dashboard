@@ -61,7 +61,7 @@ Restricted access
 
 [Real Example of EPA Presentation & Interview 1 (video)](https://ssu-my.sharepoint.com/:v:/g/personal/martin_reid_solent_ac_uk/EevrvejgeYZMnndmzYqi5UIBmxjpPl5WYUq83Rqahlm4yQ?email=neil.sweeney%40gmail.com&e=Cw9m5n)
 
-[Real Example of EPA Presentation & Interview 2 (video)] (https://ssu-my.sharepoint.com/:v:/g/personal/martin_reid_solent_ac_uk/ETbRf97qLVdCiT_AtppkTxwBBCpHEFcNeD2_ehcrGxfQ_Q)
+[Real Example of EPA Presentation & Interview 2 (video)](https://ssu-my.sharepoint.com/:v:/g/personal/martin_reid_solent_ac_uk/ETbRf97qLVdCiT_AtppkTxwBBCpHEFcNeD2_ehcrGxfQ_Q)
 
 ### EPA Documents 
 
