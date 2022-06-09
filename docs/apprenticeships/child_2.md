@@ -53,7 +53,7 @@ This Section offers training for independent EPA assessors for BSc Digital and T
 
 [EPA Overview Slide Deck](docs/BDATS_EPA_assessor_OVERVIEW.pptx)
 
-[Download BDATS EPA Assessment Template](https://teams.microsoft.com/l/file/73763CDF-B14A-4613-8D77-4ADCEB5EDEDC?tenantId=d684e4cd-491a-4577-bf33-546478d72e3c&fileType=docx&objectUrl=https%3A%2F%2Fssu.sharepoint.com%2Fsites%2FDigitalApprenticeships%2FShared%20Documents%2FGeneral%2FBDATS_L6_EPA%2FTemplateEndPointAssessment_v-29-10-2021.docx&baseUrl=https%3A%2F%2Fssu.sharepoint.com%2Fsites%2FDigitalApprenticeships&serviceName=teams&threadId=19:a1831ee2be54438c813d1d87a9194b26@thread.tacv2&groupId=64170254-4f1d-48f5-bb72-c9b64f9566e3){: .btn .btn-purple }
+[Download BDATS EPA Assessment Template](https://github.com/martinsolent/solent_store/raw/main/docs/TemplateEndPointAssessment_v-29-10-2021.docx){: .btn .btn-purple }
 
 ### EPA Examples
 
