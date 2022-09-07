@@ -19,4 +19,4 @@ We run the following Computing apprenticeships:
 * Network Engineer
 
 
-[HNC Data Analyst]() 2 year Level 4 apprenticeship.
+[HNC Data Analyst](https://martinsolent.github.io/data_level_4/) 2 year Level 4 apprenticeship.
