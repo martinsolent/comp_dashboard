@@ -17,7 +17,6 @@ nav_order: 2
 
 [Academic Calendar 2023-24](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2023-24.pdf){: .btn .btn-purple } 
 
-[Academic Calendar 2024-25](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2023-24.pdf){: .btn .btn-purple }
 
 [https://staff.solent.ac.uk/academic-toolkit/term-times](https://staff.solent.ac.uk/academic-toolkit/term-times)
 
