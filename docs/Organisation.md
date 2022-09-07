@@ -10,15 +10,12 @@ nav_order: 2
 
 ![clock](images/clock.jpg)
 
-### Computing Team Calendar 2021-2022
 
-This calendar contains all the milestones for the computing subject group
+### Solent Academic Calendar
 
-[Computing Calendar](https://ssu-my.sharepoint.com/:x:/g/personal/martin_reid_solent_ac_uk/EVj28K5mGK9LlGR4xhxIsX8BbSvbZ8fnJaXTb2tJPU5jEw?e=7mNfRE){: .btn .btn-purple } 
+[Academic Calendar 2022-23](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2022-23.pdf){: .btn .btn-purple } 
 
-### Solent Academic Calendar 2021-22
-
-[Academic Calendar](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2021-22.pdf){: .btn .btn-purple } 
+[Academic Calendar 2023-24](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2023-24.pdf){: .btn .btn-purple } 
 
 ### Computing Subject Group course structures
 
