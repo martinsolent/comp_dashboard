@@ -11,7 +11,7 @@ nav_order: 4
 
 ALL assessment briefs need to be internally here reviewed. Once you have created or updated an assessment brief you will need to get a colleague to Peer Review it. They will need to complete PR form which will be uploaded the moderation folder on SOL together with the brief.
 
-[moderation workflow](https://martinsolent.github.io/comp_dashboard/docs/assessments/child_1.html){: .btn .btn-purple } 
+[moderation workflow](https://github.com/martinsolent/solent_store/raw/main/workflows/Workflow_for_Moderation-1.docx){: .btn .btn-purple } 
 
 This short video guides you through completing a peer review 
 
