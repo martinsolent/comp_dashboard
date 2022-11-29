@@ -12,10 +12,8 @@ nav_order: 40
 ## Powerpoint and MS Team Backgrounds
 
 
-[Teams Backgrounds](images/Teams_Solent_Backgrounds.zip){: .btn .btn-blue } 
-
-
-[PowerPoint Template 2022](https://staff.solent.ac.uk/support-documents/our-organisation/solent-brand/solent-ppt-template-undergraduate.pptx){: .btn .btn-green } 
+[Teams Backgrounds](images/Teams_Solent_Backgrounds.zip){: .btn .btn-blue .mr-2 } 
+[PowerPoint Template 2022](https://staff.solent.ac.uk/support-documents/our-organisation/solent-brand/solent-ppt-template-undergraduate.pptx){: .btn .btn-green .mr-2 } 
 
 
 ## More Resources & Assets
