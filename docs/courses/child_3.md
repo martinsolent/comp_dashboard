@@ -14,7 +14,7 @@ Fill in the internal transfer form using the guidance sheet information. Then se
 
 ## Under Grad Course Leaders
 
-**Prins Butt - prins.butt@solent.ac.uk**	
+**Prins Butt - prins.butt@solent.ac.uk**
 
 BSc (Hons) Software Engineering
 
@@ -28,11 +28,8 @@ BSc (Hons) Computer Systems & Networks
 
 **Martin Reid - martin.reid@solent.ac.uk**
 
-BSc (Hons) Digital Design and Web Development
-
 ALL Computing Foundation pathways
 
-[Download Guidance Sheet](https://github.com/martinsolent/solent_store/raw/main/internal_transfer_info/New_2021/internal_trans_comp_course_info_2021.docx){: .btn .btn-purple }
-
-[Download Transfer Form](https://github.com/martinsolent/solent_store/raw/main/internal_transfer_info/New_2021/internal_trans_fillable_2021.docx){: .btn .btn-purple }
+[Download Guidance Sheet](https://github.com/martinsolent/solent_store/raw/main/internal_transfer_info/New_2021/internal_trans_comp_course_info_2021.docx){: .btn .btn-purple .mr-2 }
+[Download Transfer Form](https://github.com/martinsolent/solent_store/raw/main/internal_transfer_info/New_2021/internal_trans_fillable_2021.docx){: .btn .btn-blue .mr-2 }
 
