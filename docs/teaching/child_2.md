@@ -81,22 +81,6 @@ When and how to use either Author or Subject focused citation in academic writin
 
 [Download MyBIB Walkthrough](ACS_slides/my_bib.pdf)
 
-### Zotero citation and referencing tool
-
-[zotero.org](https://www.zotero.org)
-
-#### Zotero - Introduction
-
-<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=b0db2a5f-34d8-4aa5-be19-a99a0186e619&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
-
-#### Zotero - Using the Desktop App
-
-<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=8f4e2946-654e-4ab0-9466-a99a01898f69&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
-
-#### Zotero - Capturing sources from  websites and online resources 
-
-<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=5b609d8e-0880-41a7-8b80-a99a018a524a&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
-
 
 
 
