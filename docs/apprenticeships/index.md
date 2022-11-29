@@ -5,7 +5,6 @@ nav_order: 23
 has_children: true
 ---
 
-{: .no_toc }
 
 # Apprenticeships
 
@@ -20,14 +19,3 @@ The following links of external sites to offer information to apprentice/company
 [L4 Data Analyst Apprenticeship](https://learn.solent.ac.uk/course/view.php?id=42256)
 
 [BSc Digital Technology Solutions Degree Apprenticeship](https://learn.solent.ac.uk/course/view.php?id=42080)
-
----
-Test
----
-
-{: .note }
-> bjhcdbsjvhbjb hjhbhbiuh iuhiuhbi hihi hihihihih ihih uub
-
-{: .warning }
-> hghghghghhygv ijhkjhihihihih ihihihihihihi 
-uhiuhuhuhuhuhuhuhuhuhuhuh huhuhuhuhuhuhu huhuhu huhuh uhuhu huhuh uhuhu h
