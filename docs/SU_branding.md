@@ -14,7 +14,7 @@ On this page you can find out how the new brand was researched and developed, ta
 
 [Teams Backgrounds](images/Teams_Solent_Backgrounds.zip){: .btn .btn-blue } 
 
-[PowerPoint Template 2022](https://staff.solent.ac.uk/support-documents/our-organisation/solent-brand/solent-ppt-template-undergraduate.pptx){: .btn .btn-green } 
+[PowerPoint Template 2022](https://staff.solent.ac.uk/support-documents/our-organisation/solent-brand/solent-ppt-template-undergraduate.pptx){: .btn .btn-black } 
 
 
 ### More Resources & Assets
