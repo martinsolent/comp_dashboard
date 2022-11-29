@@ -17,7 +17,7 @@ The following links of external sites to offer information to apprentice/company
 
 **Internal SOL Course Pages:**
 
-[L$ Data Analyst Apprenticeship](https://learn.solent.ac.uk/course/view.php?id=42256)
+[L4 Data Analyst Apprenticeship](https://learn.solent.ac.uk/course/view.php?id=42256)
 
 [BSc Digital Technology Solutions Degree Apprenticeship](https://learn.solent.ac.uk/course/view.php?id=42080)
 
