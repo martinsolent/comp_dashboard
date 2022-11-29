@@ -56,10 +56,4 @@ A 60 minute two-way discussion underpinned by the portfolio, which involves both
 
 [Good info here](https://www.accelerate-people.co.uk/network-engineer-june-2021/)
 
-**New Standard updated 1/06/2021**
-
-[L4 NETWORK Standard](https:/www.instituteforapprenticeships.org/apprenticeship-standards/network-engineer-v1-2){: .btn .btn-purple } 
-
-[End-point assessment plan for L4 Network Engineer
-apprenticeship standard](https://www.instituteforapprenticeships.org/media/5130/st0127_network-engineer_l4_ap-for-publication_20210527.pdf)
 

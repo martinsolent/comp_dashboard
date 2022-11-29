@@ -17,8 +17,6 @@ nav_order: 2
 
 1. [HNC DATA ANALYST (HDAA)](https://learn.solent.ac.uk/course/view.php?id=42256)
 
-1. [HNC NETWORK ENGINEER (HNEA)](https://learn.solent.ac.uk/course/view.php?id=42263)
-
 1. [BSc Digital Technology Solutions Degree Apprenticeship](https://learn.solent.ac.uk/course/view.php?id=42080) 
 1. [MSC APPLIED AI AND DATA SCIENCE (MAIDS)](https://learn.solent.ac.uk/course/view.php?id=43048)
 
