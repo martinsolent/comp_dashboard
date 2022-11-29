@@ -13,9 +13,7 @@ nav_order: 2
 
 ### Solent Academic Calendar
 
-[Academic Calendar 2022-23](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2022-23.pdf){: .btn .btn-purple } 
-
-[Academic Calendar 2023-24](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2023-24.pdf){: .btn .btn-purple } 
+[Academic Calendar 2022-23](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2022-23.pdf){: .btn .btn-purple .mr-2 }[Academic Calendar 2023-24](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2023-24.pdf){: .btn .btn-purple .mr-2 } 
 
 
 [https://staff.solent.ac.uk/academic-toolkit/term-times](https://staff.solent.ac.uk/academic-toolkit/term-times)
