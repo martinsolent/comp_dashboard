@@ -27,3 +27,7 @@ Test
 
 {: .note }
 > bjhcdbsjvhbjb hjhbhbiuh iuhiuhbi hihi hihihihih ihih uub
+
+{: .warning }
+hghghghghhygv ijhkjhihihihih ihihihihihihi 
+uhiuhuhuhuhuhuhuhuhuhuhuh huhuhuhuhuhuhu huhuhu huhuh uhuhu huhuh uhuhu h
