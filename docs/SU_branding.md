@@ -12,11 +12,16 @@ nav_order: 40
 
 On this page you can find out how the new brand was researched and developed, take a look at the new guidelines on use of the Solent logo, images of the University and our students, key messages and our tone of voice, and download assets you can use to ensure your own work reflects the Solent brand.
 
-[Solent Brand Page](https://staff.solent.ac.uk/our-organisation/solent-brand){: .btn .btn-purple } 
+[Teams Background](images/Teams_Solent_Backgrounds.zip){: .btn .btn-blue } 
+
+[PowerPoint Template 2022](https://staff.solent.ac.uk/support-documents/our-organisation/solent-brand/solent-ppt-template-undergraduate.pptx)
+
 
 ### Resources & Assets
 
-[Full brand guidelines - 2022](https://staff.solent.ac.uk/official-documents/external-relations/brand-guidelines-solent-universitypdf)
+[Solent Brand Page](https://staff.solent.ac.uk/our-organisation/solent-brand){: .btn .btn-purple } 
 
-[[Solent University branded PowerPoint template - General/Undergraduate August 2022](https://staff.solent.ac.uk/support-documents/our-organisation/solent-brand/solent-ppt-template-undergraduate.pptx)
+[Full brand guidelines - 2022](https://staff.solent.ac.uk/official-documents/external-relations/brand-guidelines-solent-university.pdf)
+
+[Solent University branded PowerPoint template - General/Undergraduate August 2022](https://staff.solent.ac.uk/support-documents/our-organisation/solent-brand/solent-ppt-template-undergraduate.pptx)
 
