@@ -3,6 +3,7 @@ layout: default
 title: Teaching
 nav_order: 21
 has_children: true
+has_toc: false
 ---
 
 {: .no_toc }
