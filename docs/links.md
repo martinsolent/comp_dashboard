@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Timetabling
+title: Essential links
 nav_order: 30
 ---
 {: .no_toc }
