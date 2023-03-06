@@ -36,3 +36,5 @@ nav_order: 30
 [Academic Calendar 2022-23](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2022-23.pdf)
 
 [Academic Calendar 2023-24](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2023-24.pdf)
+
+[Broc Prez PDF](https://github.com/martinsolent/solent_store/raw/main/docs/Presentation_BROC_MARCH_2023_2.pdf)
