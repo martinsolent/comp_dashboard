@@ -14,7 +14,7 @@ Fill in the internal transfer form using the guidance sheet information. Then se
 
 ## Under Grad Course Leaders
 
-**Prins Butt - prins.butt@solent.ac.uk**
+**Post Current Vacant email Martin Reid below**
 
 BSc (Hons) Software Engineering
 
