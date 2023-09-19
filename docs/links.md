@@ -41,4 +41,4 @@ nav_order: 30
 
 [College Slides - Bloc](https://ssu-my.sharepoint.com/:f:/g/personal/martin_reid_solent_ac_uk/EtUHEz0CW4tCpwi-j7A6ac4BPhP3yYZloAbUCcRVabJK9g?e=vOxecg)
 
-[Martin Reid- Induction 2023](docs/martin_reid_23.pptx)
+[Martin Reid- Induction 2023](https://github.com/martinsolent/solent_store/raw/main/martin_reid_23.pptx)
