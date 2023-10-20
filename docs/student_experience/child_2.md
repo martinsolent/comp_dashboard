@@ -81,13 +81,6 @@ Two students from Solent University recently had the fantastic opportunity to su
 
 The app was created by local digital product studio Rareloop, and Skip Barden, currently in her second year of BSc (Hons) Web Design and Development and interning with Rareloop, and Edoardo Rainoldi, in his final year of BA (Hons) Graphic Design for Web and Mobile Devices (now BA (Hons) Graphic Design) assisted the team in the development. 
 
-
-## Computing students collaborate with Oxford Innovation Centre
-
-Solent computing students have successfully completed a two week placement in collaboration with Oxford Innovation Centre (OI Space Incubator), working directly with four business start-ups to design their UX and digital strategies.
-
-[https://www.solent.ac.uk/news/school-of-media-arts-and-technology/2018/computing-students-collaborate-with-oxford-innovation-centre](https://www.solent.ac.uk/news/school-of-media-arts-and-technology/2018/computing-students-collaborate-with-oxford-innovation-centre)
-
 ## Agata gets practical experience in UX/UI design
 
 ![Agata](images/agata.jpg)
