@@ -4,13 +4,14 @@ title: Student Experience
 nav_order: 6
 has_children: true
 ---
+
 {: .no_toc }
 
 # Student Experience 
 
 ![Student Experience](image/../../images/EJFvcOyW4AAzsS5.jpg)
 
-[Student Experience](https://martinsolent.github.io/Student-Experience/){: .btn .btn-purple } 
+[student Case Studies](https://martinsolent.github.io/comp_dashboard/docs/student_experience/child_2.html){: .btn .btn-purple } 
 
 ## Happy Hour Digital Industry
 
@@ -24,4 +25,4 @@ Solent University Computing Subject Group's Happy Hour Talks offer insights to w
 
 Solent University’s MSc Digital Design programme teaches students a wide range of industry-relevant skills including user experience design, front-end web development and digital marketing.
 
-[Digital Design Showcase](https://martinsolent.github.io/Student-Experience/){: .btn .btn-purple } 
+[Digital Design Showcase](https://martinsolent.github.io/comp_dashboard/docs/student_experience/child_1.html){: .btn .btn-purple } 
