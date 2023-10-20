@@ -9,7 +9,7 @@ nav_order: 3
 
 # Computing at Solent University - Student Experience
 
-![DDWD header image](/docs/images/digital-design-and-web-development.jpg)
+![DDWD header image](images/digital-design-and-web-development.jpg)
 
 
 ## My Experience of The ‘Work In The Web’ Workshop
