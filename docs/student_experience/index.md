@@ -14,7 +14,7 @@ has_children: true
 
 ## Happy Hour Digital Industry
 
-![](images/HH_logo_23.png)
+![](images/../../images/HH_logo_23.png)
 
 Solent University Computing Subject Group's Happy Hour Talks offer insights to working within the digital and tech industry by bringing in practitioners, including Solent Alumni, to share their professional journeys.
 

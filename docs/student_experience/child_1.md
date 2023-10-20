@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Student Showcase
-parent: student_experience
+parent: Student Experience
 nav_order: 2
 ---
 
