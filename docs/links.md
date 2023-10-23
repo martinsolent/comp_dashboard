@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Essential links
-nav_order: 30
+nav_order: 60
 ---
 {: .no_toc }
 
@@ -10,6 +10,8 @@ nav_order: 30
 [ACE360](https://my.ace360.org/#/)
 
 [Apprentice Progression](https://ssu-my.sharepoint.com/:x:/g/personal/martin_reid_solent_ac_uk/EXm7V8SaO15KuuiD_tRX4XYBEBXfXqzHOGHJwA5JNkdnPw)
+
+[Apprentice Reviews Sheet - (Comp Team)](https://ssu.sharepoint.com/:x:/r/sites/DigitalApprenticeships/_layouts/15/Doc.aspx?sourcedoc=%7B5DFC1B1C-9F16-4F52-A50D-5BD77151A36F%7D&file=reviews_list.xlsx&action=default&mobileredirect=true)
 
 [Apprentice RAG & Reviews (Apprentice Office sheets)](https://ssu.sharepoint.com/:x:/r/sites/Apprenticeships/Shared%20Documents/General/2023%20RAG%20Trackers/Digital%20and%20Technology/Solent%20Apprentice%20RAG%20Tracker%20Data%20Analyst%20%20DTS_.xlsx?d=w9adc572128de490a92dbedc920adc53c&csf=1&web=1&e=d4Ww98)
 
