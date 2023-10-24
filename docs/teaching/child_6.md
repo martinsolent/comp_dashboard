@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teaching - Classrooms
+title: Classrooms
 parent: Teaching
 nav_order: 7
 ---

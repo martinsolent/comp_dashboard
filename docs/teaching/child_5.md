@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teaching - Hybrid Delivery
+title: Delivery Options
 parent: Teaching
 nav_order: 6
 ---

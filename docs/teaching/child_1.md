@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teaching - Transformation Academy
+title: Overview
 parent: Teaching
 nav_order: 2
 ---

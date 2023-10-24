@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teaching - Academic Skills
+title: Academic Skills
 parent: Teaching
 nav_order: 2
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teaching - Study Guide
+title: Study Guide
 parent: Teaching
 nav_order: 5
 ---
