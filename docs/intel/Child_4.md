@@ -16,4 +16,4 @@ Computing Student Numbers: Foundation, Under Grad, Post Grad and Apprentices
 
 Computing Module Mapping all courses and levels
 
-[Computing Module Mapping](https://ssu-my.sharepoint.com/:x:/r/personal/martin_reid_solent_ac_uk/Documents/Intel_stats_2023/Comp_Module_Map_2022_V5.xlsx?d=wb97044acef60487ba5d13246450d62b6&csf=1&web=1&e=TndeLF){: .btn .btn-purple }
+[Computing Module Mapping](https://ssu-my.sharepoint.com/:x:/r/personal/martin_reid_solent_ac_uk/_layouts/15/Doc.aspx?sourcedoc=%7BB97044AC-EF60-487B-A5D1-3246450D62B6%7D&file=Comp_Module_Map_2022_V5.xlsx&action=default&mobileredirect=true){: .btn .btn-purple }
